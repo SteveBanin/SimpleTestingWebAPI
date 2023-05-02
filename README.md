@@ -2,7 +2,7 @@
 
 - Querying data using LINQ (base on IQueryable and IEnumerable performance-wise. Let say with 2 million records)
 - Connection resiliency
-- Htpp verbs
+- Http verbs
 - Loading data
 - Handling concurrency issues
 - Access multiple databases 
